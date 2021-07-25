@@ -19,9 +19,9 @@ img{
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 20px 40px 20px 40px;
+  padding: 10px 10px 10px 10px;
   text-decoration: none;
-  font-size: 27px;
+  font-size: 20px;
 }
 
 .topnav a:hover {
@@ -33,7 +33,7 @@ section#About article{
 	border-radius: 1px;
 	border-color: lightgray;
 	padding: 10px 10px 10px 10px;
-	margin: 10px;
+	
 }
 .ol{
 	font-size: 22px;
@@ -50,14 +50,12 @@ section#About aside{
 	border-radius: 1px;
 	border-color: lightgray;
 	padding: 10px 10px 10px 10px;
-	margin: 10px;
 }
 .p{
-	margin: 20px;
 	font-size: 22px;
 }
 .institute{
-	margin: 10px;
+	
 	font-size: 22px;
 
 }
@@ -66,15 +64,14 @@ section#About aside{
 	border-radius: 1px;
 	border-color: lightgray;
 	padding: 10px 10px 10px 10px;
-	margin: 10px;
+
 	background-color: #e3e3e3;
 }
 .certificate{
-	margin: 10px;
+	
 }
 
 section#Howitworks{
-	margin: 10px;
 	padding: 10px;
 	border-bottom: solid;
 	border-color: lightgray;
@@ -90,14 +87,13 @@ h5{
 	color: #999696;
 }
 .c{
-	margin: 10px;
+	
 
 }
 .c1,p{
 	font-size: 20px;
 }
 section#courses{
-	margin: 10px;
 	padding: 10px;
 	border-bottom: solid;
 	border-color: lightgray;
@@ -106,7 +102,6 @@ section#courses{
 }
 
 section#gallery{
-	margin: 10px;
 	padding: 10px;
 	border-bottom: solid;
 	border-color: lightgray;
@@ -121,7 +116,6 @@ section#gallery img{
 	padding: 20px;
 }
 section#contact{
-	margin: 10px;
 	padding: 10px;
 	border-bottom: solid;
 	border-color: lightgray;
